@@ -1,0 +1,15 @@
+.App{
+
+  justify-content: space-around;
+
+}
+.search-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 20px;
+  align-items: center
+}
+.stars
+{
+  cursor: pointer;
+}
